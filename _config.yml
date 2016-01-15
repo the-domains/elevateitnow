@@ -1,0 +1,28 @@
+name: elevateitnow
+favicon: null
+layout_spectrum: 0.45435872999951243
+typography_spectrum: 0.3624883892480284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8661216318141669
+  lightness: 0.7005794085562229
+  saturation: 0.8810295956209302
+  rhythmicContrast: 0.20575993112288415
+purpose: []
