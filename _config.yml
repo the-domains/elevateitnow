@@ -1,7 +1,7 @@
 name: elevateitnow
 favicon: null
-layout_spectrum: 0.45435872999951243
-typography_spectrum: 0.49388
+layout_spectrum: 0.38813
+typography_spectrum: 0.30392
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#a1a1a1'
     - '#40d7de'
   brandStrength: 0.8661216318141669
-  lightness: 0.7005794085562229
+  lightness: 0.5625
   saturation: 0.8810295956209302
   rhythmicContrast: 0.20575993112288415
 purpose: []
