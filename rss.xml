@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[elevateitnow]]></title>
         <description><![CDATA[elevateitnow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elevateitnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 21:25:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 21:28:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elevateitnow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What We Do</p>]]></description>
+            <link>https://thegrid.ai/elevateitnow/5b8d36b1-3f53-4cdd-b12b-197d4aa00c49/index.html</link>
+            <guid isPermaLink="false">5b8d36b1-3f53-4cdd-b12b-197d4aa00c49</guid>
+            <pubDate>Thu, 28 Jan 2016 21:27:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>About Us</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/144df75d332ebf3a610d38a0cc33643f591411c0.jpg"></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <description><![CDATA[<article><h1>Home</h1><p>About Us</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ef2aecb2ecb73b6886bd0b853363863238ecb32.jpg"></article>]]></description>
+            <link>https://thegrid.ai/elevateitnow/home/index.html</link>
             <guid isPermaLink="false">ebc91e44-fd74-4818-ba79-7c5ab4c599dd</guid>
             <pubDate>Thu, 28 Jan 2016 21:25:01 GMT</pubDate>
         </item>
